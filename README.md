@@ -5,9 +5,13 @@
 - New Links must use this format:
   - `DD MMM YYYY: [Link Name](link) Description`
 
-## Tutorials
+## Introductory
 
 - 5 Jul 2018: **What the Heck is Serverless?**: https://www.youtube.com/watch?v=2N_sUmpjzZk& 20 minute CSS Tricks Screencast by Chris Coyier and David Wells
+
+## Advanced
+
+- 23 Nov 2018: **The Serverless Sea Change**: https://www.infoq.com/articles/serverless-sea-change Joe Emison on the actual definition, advantage of Serverless: Optimizing for Less Code, Not Our Uptime
 
 # History
 
