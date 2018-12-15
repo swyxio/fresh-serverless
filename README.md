@@ -7,7 +7,7 @@
 
 ## Tutorials
 
-- 9 Aug 2018: **Sustainable serverless workflows with Netlify Functions**: https://skillsmatter.com/skillscasts/12424-sustainable-serverless-workflows-with-netlify-functions Discussing why and how to use Netlify Functions
+- 5 Jul 2018: **What the Heck is Serverless?**: https://www.youtube.com/watch?v=2N_sUmpjzZk& 20 minute CSS Tricks Screencast by Chris Coyier and David Wells
 
 # History
 
